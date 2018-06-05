@@ -1,0 +1,9 @@
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\bin\Debug\netcoreapp2.0\BlPosiciones.deps.json
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\bin\Debug\netcoreapp2.0\BlPosiciones.dll
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\bin\Debug\netcoreapp2.0\BlPosiciones.pdb
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.AssemblyInfoInputs.cache
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.AssemblyInfo.cs
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.dll
+c:\users\user\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.pdb
+C:\Users\User\source\repos\ApiPosiciones\BlPosiciones\obj\Debug\netcoreapp2.0\BlPosiciones.csprojResolveAssemblyReference.cache

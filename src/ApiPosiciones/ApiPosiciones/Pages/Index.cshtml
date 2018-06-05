@@ -1,0 +1,46 @@
+﻿@page
+@model WebLog.Pages.ListLogModel
+
+@{
+    ViewData["Title"] = "Lista Llamados";
+}
+
+<h2>Lista Llamados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogServicio[0].Request)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogServicio[0].Response)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogServicio[0].Fecha)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogServicio[0].StatusCode)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.LogServicio) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Request)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Response)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatusCode)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

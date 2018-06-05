@@ -1,0 +1,16 @@
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\ApiPosiciones.deps.json
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\ApiPosiciones.runtimeconfig.json
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\ApiPosiciones.runtimeconfig.dev.json
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\ApiPosiciones.dll
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\ApiPosiciones.pdb
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\BlPosiciones.dll
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\BlPosiciones.pdb
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.AssemblyInfoInputs.cache
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.AssemblyInfo.cs
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.csproj.CopyComplete
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.dll
+c:\users\user\source\repos\ApiPosiciones\ApiPosiciones\obj\Debug\netcoreapp2.0\ApiPosiciones.pdb
+C:\Users\User\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\AccesoDatos.dll
+C:\Users\User\source\repos\ApiPosiciones\ApiPosiciones\bin\Debug\netcoreapp2.0\AccesoDatos.pdb

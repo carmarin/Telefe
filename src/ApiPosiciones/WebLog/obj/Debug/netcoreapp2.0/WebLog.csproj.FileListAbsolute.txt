@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\WebLog.deps.json
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\WebLog.runtimeconfig.json
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\WebLog.runtimeconfig.dev.json
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\WebLog.dll
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\AccesoDatos.dll
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\AccesoDatos.pdb
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.AssemblyInfo.cs
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.csproj.CopyComplete
+C:\Users\User\source\repos\ApiPosiciones\WebLog\bin\Debug\netcoreapp2.0\WebLog.pdb
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.dll
+C:\Users\User\source\repos\ApiPosiciones\WebLog\obj\Debug\netcoreapp2.0\WebLog.pdb

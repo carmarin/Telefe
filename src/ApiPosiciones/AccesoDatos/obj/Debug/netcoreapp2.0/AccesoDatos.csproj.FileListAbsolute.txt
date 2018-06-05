@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\bin\Debug\netcoreapp2.0\AccesoDatos.deps.json
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\bin\Debug\netcoreapp2.0\AccesoDatos.dll
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\bin\Debug\netcoreapp2.0\AccesoDatos.pdb
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.dll
+C:\Users\User\source\repos\ApiPosiciones\AccesoDatos\obj\Debug\netcoreapp2.0\AccesoDatos.pdb
